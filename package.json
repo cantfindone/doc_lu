@@ -1,0 +1,24 @@
+{
+  "name": "doc_lu",
+  "version": "1.0.0",
+  "description": "a online doctor service server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cantfindone/doc_lu.git"
+  },
+  "keywords": [
+    "nodejs",
+    "koa2",
+    "doctor"
+  ],
+  "author": "ping.lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cantfindone/doc_lu/issues"
+  },
+  "homepage": "https://github.com/cantfindone/doc_lu#readme"
+}
